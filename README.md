@@ -1,6 +1,14 @@
 # Filtro_de_Usuarios
 Desafio realizado no Bootcamp em Desenvolvedor Full Stack do IGTI
 
+# Configuração
+  
+  Passos para utilização do código:
+  
+  1. Utilizar uma plataforma compatível com o JavaScript
+  2. Abrir o arquivo index.html na web
+  3. Executar o código do arquivo script.js
+
 # Objetivos
 
   Exercitar os seguintes conceitos trabalhados no Módulo:
